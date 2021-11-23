@@ -1,10 +1,6 @@
-First changes
+echo "First changes"
 
-second
-third changes made by dev1
-
-changes made by master
-
-six
-seven
-changes made by dev2
+echo "second"
+echo "third changes made by dev1"
+echo "changes made by master"
+echo "changes made by dev2"
